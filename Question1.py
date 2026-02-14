@@ -1,4 +1,4 @@
-# load crim.csv into a pandas DataFrame and focus on the column ViolentCrimesPerPop
+# load crime.csv into a pandas DataFrame and focus on the column ViolentCrimesPerPop
 # Compute and print the following:
 # mean, median, standard deviation, minimum value, maximum value
 
